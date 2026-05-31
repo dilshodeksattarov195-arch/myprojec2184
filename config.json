@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvarse",
+        "uuid": 18273528,
+        "checksum": "13p91o"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
